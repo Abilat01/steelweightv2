@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Steel weight v.2</string>
-    <string name="explore">Explore</string>
-    <string name="dashboard">dashboard</string>
-    <string name="profile">profile</string>
+    <string name="explore">Тренировка</string>
+    <string name="dashboard">Упражнения</string>
+    <string name="profile">Информация</string>
 </resources>
