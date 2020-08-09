@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Steel weight v.2</string>
-    <string name="explore">Тренировка</string>
-    <string name="dashboard">Упражнения</string>
-    <string name="profile">Информация</string>
+    <string name="programs">Программы</string>
+    <string name="exercises">Упражнения</string>
+    <string name="info">Информация</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_exit">Выход</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

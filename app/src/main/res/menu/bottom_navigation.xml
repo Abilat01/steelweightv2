@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+<item
+    android:id="@+id/menu_programs"
+    android:title="@string/programs"
+    android:icon="@drawable/athletic" />
     <item
-        android:id="@+id/navigationExplore"
-        android:icon="@drawable/ic_explore"
-        android:title="@string/explore" />
-
+        android:id="@+id/menu_exercises"
+        android:title="@string/exercises"
+        android:icon="@drawable/fitness" />
     <item
-        android:id="@+id/navigationDashboard"
-        android:icon="@drawable/ic_dashboard"
-        android:title="@string/dashboard" />
+        android:id="@+id/menu_info"
+        android:title="@string/info"
+        android:icon="@drawable/fitness_gym" />
 
-    <item
-        android:id="@+id/navigationProfile"
-        android:icon="@drawable/ic_profile"
-        android:title="@string/profile" />
 
 </menu>
