@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         //Загрузка главного фрагмента(В первую очередь)
         loadFragment(ProgramFragment())
+        //попробовать без list7
 
         bottomNavigationView.setOnNavigationItemSelectedListener { MenuItem ->
             when (MenuItem.itemId) {
